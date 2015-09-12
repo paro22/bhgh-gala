@@ -2,7 +2,7 @@
 
 Very simple landing page for the Growing Hope Gala 2014, organized by Boys Hope Girls Hope San Francisco.
 
-http://bhghacademy.org
+http://bhghsf.org
 
 ---
 
